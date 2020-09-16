@@ -5,6 +5,8 @@
 [![Downloads][downloads-image]][downloads-url]
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fauth0%2Flock.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fauth0%2Flock?ref=badge_shield)
 
+_This is a forked version of the official Auth0 Lock. It's used by [HTTP Toolkit](https://httptoolkit.tech), and includes a quick fix for https://github.com/auth0/lock/issues/1148_
+
 # Lock
 
 [Auth0](https://auth0.com) is an authentication broker that supports both social and enterprise identity providers, including Active Directory, LDAP, Google Apps, and Salesforce.
